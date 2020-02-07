@@ -1,0 +1,7 @@
+{
+  "name": "mkdocs-heroku-build",
+  "version": "1.0.0",
+  "repository": "https://github.com/marcelo-growdev/mkdocs-heroku-build.git",
+  "author": "Marcelo Eltz <marcelo@growdev.com.br>",
+  "license": "MIT"
+}

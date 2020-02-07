@@ -1,0 +1,20 @@
+site_name: Test Mkdocs
+
+docs_dir: docs
+
+site_dir: public/site
+
+# Documentation and theme
+theme: 
+  name: readthedocs
+
+# Page tree
+nav:
+  - Home: index.md
+  - About: about.md
+
+extra_css:
+    - css/custom.css
+
+
+
